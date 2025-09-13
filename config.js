@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        px: '+', // Le prefix exemple +help *help ta capter le prefix avant la commande...
+        px: '-', // Le prefix exemple +help *help ta capter le prefix avant la commande...
         owners: '1380216802537377963', // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
         funny:'1380216802537377963', // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
         color: '#100238', // Couleur en HEX | https://htmlcolorcodes.com/fr/selecteur-de-couleur/
